@@ -13,3 +13,4 @@ in no particular order
 2) decide on how many charts should be displayed at once
 3) add other GET calls/scrapes (advanced, playoffs, etc..) 
 4) scrape the URL for every player and store in json map
+5) add option to get playersp
